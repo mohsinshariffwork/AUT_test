@@ -1,0 +1,4 @@
+aut\stepdef\autStepDef.class
+aut\pages\launchPage.class
+aut\pages\AbstractPage.class
+aut\runner\runnerTest.class
